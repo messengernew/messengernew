@@ -34,9 +34,9 @@ Weather in my city <a href="https://github.com/Andcool-Systems/weather-widget-ap
 </p>
 
 <p align="center">
-   <a href="https://wakatime.com/@AndcoolSystems">
+   <a href="https://wakatime.com/@messenger_qs">
    <img 
-      src="https://wakatime.com/badge/user/391a38bf-e366-4a08-8107-7e6a23ad440a.svg"
+      src="https://wakatime.com/badge/user/018c1ed7-aa46-4a1a-89ce-326d0c4b0b75.svg"
       alt="wakatime stats"
       /img>
    </a>
