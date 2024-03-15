@@ -1,9 +1,9 @@
 # Hi there 👋
-
+<hr />
 <p align="center">
    <img src="https://myreadme.vercel.app/api/embed/messengernew?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="about" />
 </p>
-
+<hr />
 <h1 align="center">Weather in my city <a href="https://github.com/Andcool-Systems/weather-widget-api">(source)</a>:</h1>
 <p align="center">
    <a href="https://github.com/Andcool-Systems/weather-widget-api">
@@ -13,7 +13,7 @@
       /img>
    </a>
 </p>
-
+<hr />
 <p align="center">
    <a href="https://wakatime.com/@messenger_qs">
    <img 
@@ -22,7 +22,7 @@
       /img>
    </a>
 </p>
-
+<hr />
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,kotlin,arch,bash,crystal,stackoverflow,cloudflare,discord,flask,git,github,gitlab,gmail,idea,ktor,linux,md,pnpm,prisma,pycharm,supabase,tailwind,vscode,windows,vercel,devto&perline=13" />
