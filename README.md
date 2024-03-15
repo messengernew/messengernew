@@ -3,9 +3,8 @@
 <p align="center">
    <img src="https://myreadme.vercel.app/api/embed/messengernew?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="about" />
 </p>
-<hr />
+<h1 align="center">Weather in my city <a href="https://github.com/Andcool-Systems/weather-widget-api">(source)</a>:</h1>
 <p align="center">
-   <h1 align="center">Weather in my city <a href="https://github.com/Andcool-Systems/weather-widget-api">(source)</a>:</h1>
    <img 
       src="https://weather.andcool.ru/api?place=ростов на дону&language=en&theme=pixel-city&size=small"
       alt="Weather"
