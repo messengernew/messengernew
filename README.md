@@ -6,11 +6,10 @@
 <hr />
 <p align="center">
    <h1 align="center">Weather in my city <a href="https://github.com/Andcool-Systems/weather-widget-api">(source)</a>:</h1>
-   <a href="https://github.com/Andcool-Systems/weather-widget-api">
    <img 
       src="https://weather.andcool.ru/api?place=ростов на дону&language=en&theme=pixel-city&size=small"
-      alt="Some errors"
-      /img>
+      alt="Weather"
+      />
    </a>
 </p>
 <hr />
