@@ -20,7 +20,6 @@
       /img>
    </a>
 </p>
-<hr />
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,kotlin,arch,bash,crystal,stackoverflow,cloudflare,discord,flask,git,github,gitlab,gmail,idea,ktor,linux,md,pnpm,prisma,pycharm,supabase,tailwind,vscode,windows,vercel,devto&perline=13" />
