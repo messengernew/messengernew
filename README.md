@@ -23,7 +23,7 @@
    </a>
 </p>
 
-Weather in my city ((source))[https://github.com/Andcool-Systems/weather-widget-api]:
+Weather in my city ((source)[https://github.com/Andcool-Systems/weather-widget-api]):
 <p align="center">
    <a href="https://github.com/Andcool-Systems/weather-widget-api">
    <img 
