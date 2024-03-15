@@ -4,7 +4,7 @@
    <img src="https://myreadme.vercel.app/api/embed/messengernew?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="about" />
 </p>
 
-Weather in my city <a href="https://github.com/Andcool-Systems/weather-widget-api">(source)</a>:
+<h1 align="center">Weather in my city <a href="https://github.com/Andcool-Systems/weather-widget-api">(source)</a>:</h1>
 <p align="center">
    <a href="https://github.com/Andcool-Systems/weather-widget-api">
    <img 
