@@ -1,4 +1,5 @@
 # Hi there 👋
+<h1>btw i use <a href="https://getcryst.al/">crystal linux</h1>
 <hr />
 <p align="center">
    <img src="https://myreadme.vercel.app/api/embed/messengernew?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="about" />
