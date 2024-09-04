@@ -1,7 +1,7 @@
 # Hi there 👋
 <h1>btw i use arch linux</h1>
 <hr />
-<h1 align="center">Weather in my city <a href="https://github.com/Andcool-Systems/weather-widget-api">(source)</a>:</h1>
+<h1 align="center">Weather in my city (<a href="https://github.com/Andcool-Systems/weather-widget-api">source</a>):</h1>
 <p align="center">
    <img 
       src="https://weather.andcool.ru/api?place=ростов на дону&language=en&theme=pixel-city&size=small"
