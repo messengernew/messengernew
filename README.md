@@ -1,9 +1,6 @@
 # Hi there 👋
-<h1>btw i use <a href="https://getcryst.al/">crystal linux</h1>
+<h1>btw i use arch linux</h1>
 <hr />
-<p align="center">
-   <img src="https://myreadme.vercel.app/api/embed/messengernew?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="about" />
-</p>
 <h1 align="center">Weather in my city <a href="https://github.com/Andcool-Systems/weather-widget-api">(source)</a>:</h1>
 <p align="center">
    <img 
@@ -23,6 +20,6 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,kotlin,arch,bash,crystal,stackoverflow,cloudflare,discord,flask,git,github,gitlab,gmail,idea,ktor,linux,md,pnpm,prisma,pycharm,supabase,tailwind,vscode,windows,vercel,devto&perline=13" />
+    <img src="https://skillicons.dev/icons?i=rust,haskell,zig,arch,github,discord,git,tauri,prisma,linux,elixir,obsidian,devto&perline=13" />
   </a>
 </p>
