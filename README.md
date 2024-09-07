@@ -20,6 +20,6 @@
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,nim,haskell,zig,arch,github,discord,git,tauri,prisma,linux,elixir,obsidian,devto&perline=13" />
+    <img src="https://skillicons.dev/icons?i=rust,nim,haskell,zig,arch,github,discord,tauri,prisma,linux,obsidian,devto&perline=3" />
   </a>
 </p>
